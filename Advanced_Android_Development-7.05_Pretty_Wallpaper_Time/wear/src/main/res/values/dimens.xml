@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="digital_text_size">24sp</dimen>
-    <dimen name="digital_text_size_round">24sp</dimen>
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">45dp</dimen>
     <dimen name="digital_x_offset">15dp</dimen>
     <dimen name="digital_x_offset_round">25dp</dimen>
     <dimen name="digital_y_offset">77dp</dimen>
     <dimen name="date_y_offset">96dp</dimen>
-    <dimen name="date_text_size">12sp</dimen>
+    <dimen name="date_text_size">16dp</dimen>
     <dimen name="line_y_offset">110dp</dimen>
     <dimen name="icon_x_offset">32dp</dimen>
-    <dimen name="other_text_size">20sp</dimen>
+    <dimen name="other_text_size">25dp</dimen>
     <dimen name="max_temp_x_offset">5dp</dimen>>
-    <dimen name="min_temp_x_offset">25dp</dimen>>
-    <dimen name="other_y_offset">134dp</dimen>
+    <dimen name="min_temp_x_offset">35dp</dimen>>
+    <dimen name="other_y_offset">140dp</dimen>
 
 </resources>

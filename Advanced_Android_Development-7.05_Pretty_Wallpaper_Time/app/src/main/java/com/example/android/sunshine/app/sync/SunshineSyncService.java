@@ -23,4 +23,5 @@ public class SunshineSyncService extends Service {
     public IBinder onBind(Intent intent) {
         return sSunshineSyncAdapter.getSyncAdapterBinder();
     }
+
 }
